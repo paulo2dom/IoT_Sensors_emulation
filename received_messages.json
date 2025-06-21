@@ -1,0 +1,736 @@
+{
+    "iot/sensores/frigorifico": [
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:02:57.511331+00:00",
+                "temperatura": 5.84,
+                "porta_aberta": true,
+                "consumo_energia": 217.35
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:00.512486+00:00",
+                "temperatura": 5.77,
+                "porta_aberta": false,
+                "consumo_energia": 240.07
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:03.513736+00:00",
+                "temperatura": 7.99,
+                "porta_aberta": true,
+                "consumo_energia": 245.19
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:06.515060+00:00",
+                "temperatura": 4.5,
+                "porta_aberta": false,
+                "consumo_energia": 217.96
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:09.516312+00:00",
+                "temperatura": 7.28,
+                "porta_aberta": true,
+                "consumo_energia": 255.69
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:12.517598+00:00",
+                "temperatura": 3.09,
+                "porta_aberta": false,
+                "consumo_energia": 314.67
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:15.518903+00:00",
+                "temperatura": 0.07,
+                "porta_aberta": false,
+                "consumo_energia": 296.0
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:18.520107+00:00",
+                "temperatura": 0.01,
+                "porta_aberta": false,
+                "consumo_energia": 230.34
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:21.521314+00:00",
+                "temperatura": 4.63,
+                "porta_aberta": true,
+                "consumo_energia": 222.58
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:24.522532+00:00",
+                "temperatura": 0.07,
+                "porta_aberta": true,
+                "consumo_energia": 315.44
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:27.523761+00:00",
+                "temperatura": 4.01,
+                "porta_aberta": true,
+                "consumo_energia": 271.35
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:30.524919+00:00",
+                "temperatura": 0.93,
+                "porta_aberta": true,
+                "consumo_energia": 263.84
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:33.525987+00:00",
+                "temperatura": 1.74,
+                "porta_aberta": false,
+                "consumo_energia": 293.8
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:36.529528+00:00",
+                "temperatura": 6.34,
+                "porta_aberta": false,
+                "consumo_energia": 293.54
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:39.530739+00:00",
+                "temperatura": 5.16,
+                "porta_aberta": true,
+                "consumo_energia": 294.74
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:42.531920+00:00",
+                "temperatura": 3.29,
+                "porta_aberta": true,
+                "consumo_energia": 213.34
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:45.532991+00:00",
+                "temperatura": 7.36,
+                "porta_aberta": true,
+                "consumo_energia": 297.6
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:48.534095+00:00",
+                "temperatura": 0.98,
+                "porta_aberta": true,
+                "consumo_energia": 326.65
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:51.535586+00:00",
+                "temperatura": 5.51,
+                "porta_aberta": false,
+                "consumo_energia": 209.46
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:54.536728+00:00",
+                "temperatura": 3.51,
+                "porta_aberta": true,
+                "consumo_energia": 257.29
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:03:57.537809+00:00",
+                "temperatura": 4.74,
+                "porta_aberta": true,
+                "consumo_energia": 208.2
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:04:00.539008+00:00",
+                "temperatura": 4.74,
+                "porta_aberta": true,
+                "consumo_energia": 256.22
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:04:03.540167+00:00",
+                "temperatura": 1.92,
+                "porta_aberta": true,
+                "consumo_energia": 268.82
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:04:06.541393+00:00",
+                "temperatura": 6.73,
+                "porta_aberta": false,
+                "consumo_energia": 291.73
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:04:09.542583+00:00",
+                "temperatura": 1.78,
+                "porta_aberta": false,
+                "consumo_energia": 200.76
+            }
+        },
+        {
+            "topic": "iot/sensores/frigorifico",
+            "payload": {
+                "Device": "Frigorifico",
+                "timestamp": "2025-02-02T13:04:12.545408+00:00",
+                "temperatura": 1.28,
+                "porta_aberta": false,
+                "consumo_energia": 347.48
+            }
+        }
+    ],
+    "iot/sensores/casa": [
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:02:57.511482+00:00",
+                "temperatura": 32.78,
+                "Humidade": 51.68,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:00.512647+00:00",
+                "temperatura": 26.67,
+                "Humidade": 34.8,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:03.513856+00:00",
+                "temperatura": 33.49,
+                "Humidade": 57.44,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:06.515179+00:00",
+                "temperatura": 24.93,
+                "Humidade": 27.29,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:09.516446+00:00",
+                "temperatura": 8.69,
+                "Humidade": 75.45,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:12.517718+00:00",
+                "temperatura": 13.38,
+                "Humidade": 66.62,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:15.519018+00:00",
+                "temperatura": 6.29,
+                "Humidade": 50.49,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:18.520228+00:00",
+                "temperatura": 39.2,
+                "Humidade": 83.31,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:21.521427+00:00",
+                "temperatura": 38.43,
+                "Humidade": 47.95,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:24.522684+00:00",
+                "temperatura": 47.97,
+                "Humidade": 77.62,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:27.523874+00:00",
+                "temperatura": 49.8,
+                "Humidade": 27.47,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:30.525033+00:00",
+                "temperatura": 43.07,
+                "Humidade": 34.95,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:33.526105+00:00",
+                "temperatura": 5.61,
+                "Humidade": 59.36,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:36.529682+00:00",
+                "temperatura": 32.12,
+                "Humidade": 86.53,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:39.530850+00:00",
+                "temperatura": 11.56,
+                "Humidade": 68.73,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:42.532053+00:00",
+                "temperatura": 9.24,
+                "Humidade": 94.98,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:45.533107+00:00",
+                "temperatura": 49.91,
+                "Humidade": 73.73,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:48.534207+00:00",
+                "temperatura": 36.7,
+                "Humidade": 57.49,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:51.535700+00:00",
+                "temperatura": 12.16,
+                "Humidade": 97.2,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:54.536840+00:00",
+                "temperatura": 48.46,
+                "Humidade": 90.85,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:03:57.537922+00:00",
+                "temperatura": 8.87,
+                "Humidade": 38.34,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:04:00.539120+00:00",
+                "temperatura": 28.56,
+                "Humidade": 28.29,
+                "Luz acesa": true
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:04:03.540282+00:00",
+                "temperatura": 32.69,
+                "Humidade": 85.0,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:04:06.541509+00:00",
+                "temperatura": 9.88,
+                "Humidade": 18.18,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:04:09.544361+00:00",
+                "temperatura": 41.97,
+                "Humidade": 79.44,
+                "Luz acesa": false
+            }
+        },
+        {
+            "topic": "iot/sensores/casa",
+            "payload": {
+                "Device": "Casa",
+                "timestamp": "2025-02-02T13:04:12.545522+00:00",
+                "temperatura": 36.11,
+                "Humidade": 31.37,
+                "Luz acesa": true
+            }
+        }
+    ],
+    "iot/sensores/jardim": [
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:02:57.511526+00:00",
+                "Humidade Terra": 80.02
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:00.512693+00:00",
+                "Humidade Terra": 35.49
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:03.513906+00:00",
+                "Humidade Terra": 70.82
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:06.515221+00:00",
+                "Humidade Terra": 62.45
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:09.516483+00:00",
+                "Humidade Terra": 33.82
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:12.517754+00:00",
+                "Humidade Terra": 87.85
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:15.519056+00:00",
+                "Humidade Terra": 67.22
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:18.520266+00:00",
+                "Humidade Terra": 48.35
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:21.521459+00:00",
+                "Humidade Terra": 34.0
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:24.522719+00:00",
+                "Humidade Terra": 91.53
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:27.523907+00:00",
+                "Humidade Terra": 41.36
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:30.525067+00:00",
+                "Humidade Terra": 35.7
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:33.526144+00:00",
+                "Humidade Terra": 59.09
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:36.529715+00:00",
+                "Humidade Terra": 45.21
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:39.530882+00:00",
+                "Humidade Terra": 60.73
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:42.532089+00:00",
+                "Humidade Terra": 72.86
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:45.533141+00:00",
+                "Humidade Terra": 64.78
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:48.534240+00:00",
+                "Humidade Terra": 89.36
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:51.535733+00:00",
+                "Humidade Terra": 56.65
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:54.536873+00:00",
+                "Humidade Terra": 34.99
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:03:57.537955+00:00",
+                "Humidade Terra": 71.26
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:04:00.539155+00:00",
+                "Humidade Terra": 73.37
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:04:03.540315+00:00",
+                "Humidade Terra": 33.1
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:04:06.541588+00:00",
+                "Humidade Terra": 53.07
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:04:09.544396+00:00",
+                "Humidade Terra": 83.88
+            }
+        },
+        {
+            "topic": "iot/sensores/jardim",
+            "payload": {
+                "Device": "Jardim_Rega",
+                "timestamp": "2025-02-02T13:04:12.545602+00:00",
+                "Humidade Terra": 53.85
+            }
+        }
+    ]
+}
