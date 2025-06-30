@@ -236,8 +236,8 @@ Educational project - Instituto Superior de Tecnologias Avançadas de Lisboa (IS
 ## 👨‍🎓 Author
 
 **Paulo Domingues** (Student #2024068)  
-**Instructor**: Luís Miguel Rodrigues  
-**Course**: Introdução à Programação  
+**Docente**: Prof. Luís Miguel Rodrigues  
+**Course**: Introdução à Programação em Python 
 **Date**: January 2025
 
 ---
