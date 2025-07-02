@@ -229,9 +229,8 @@ elif temperatura >= 5:                      # CRITICAL alert
 
 This project was developed as part of an Introduction to Programming course. Contributions and improvements are welcome!
 
-- 📄 License
+### 📄 License
 
 Educational project - Instituto Superior de Tecnologias Avançadas de Lisboa (ISTEC)
----
 
 For questions or issues, please refer to the project documentation or contact the developer.
