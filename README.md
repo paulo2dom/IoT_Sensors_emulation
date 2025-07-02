@@ -232,14 +232,6 @@ This project was developed as part of an Introduction to Programming course. Con
 ## 📄 License
 
 Educational project - Instituto Superior de Tecnologias Avançadas de Lisboa (ISTEC)
-
-## 👨‍🎓 Author
-
-**Paulo Domingues** (Student #2024068)  
-**Docente**: Prof. Luís Miguel Rodrigues  
-**Course**: Introdução à Programação em Python 
-**Date**: January 2025
-
 ---
 
-For questions or issues, please refer to the project documentation or contact the development team.
+For questions or issues, please refer to the project documentation or contact the developer.
